@@ -15,5 +15,8 @@ public class App
         System.out.println( WordUtils.capitalizeFully("hello world" ));
         System.out.println(WordUtils.swapCase("chennojubhavani"));
     System.out.println(WordUtils.swapCase("Testing"));
+System.out.println(WordUtils.swapCase("new branch feature"));
+
+
     }
 }
